@@ -3,11 +3,11 @@
 
 var coffieMaker = {
     brand: "moccaMaster",
+    colour: "black",
     on: true,
     volume: 0,
     maxVolume: 10,
     materials: ["glass", "metal", "plastic"],
-    colours: ["silver and black", "black", "silver", "white"],
     waterAmount: function(water) {
        coffieMaker.volume = coffieMaker.volume + water
    }

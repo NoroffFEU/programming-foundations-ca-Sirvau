@@ -7,7 +7,7 @@
 This object has the following properties:
 
 - Brand (string), the manufacturer of the coffie maker
-- Color (string), the color of the coffie maker
+- Colour (string), the color of the coffie maker
 - On (boolean), the switch to turn on/off the coffiemaker (on/!on)
 - Volume (number), the total amount of liquid
 - Max volume (number), the maximum amount of liquid the coffie maker can take
